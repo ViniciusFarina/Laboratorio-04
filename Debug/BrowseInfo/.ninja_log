@@ -1,0 +1,24 @@
+# ninja log v5
+112	1799	6425635750000000	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/system_TM4C1294_TW.xcl	a64d767ad38e81a3
+77	1844	6425635750000000	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/RTX_Config.xcl	8e0f2e3c185ff630
+1	2135	6425635750000000	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/driverleds.xcl	2bf3f7f9dbbff72e
+134	2194	6425635750000000	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/rtx_lib.xcl	e7a7bb4236df1d1c
+2146	2428	6425635757183237	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/driverleds.pbi	faf65242047029de
+1856	2503	6425635757773304	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/RTX_Config.pbi	7d33d7753612660b
+2206	2704	6425635758073333	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/system_TM4C1294_TW.pbi	80fbed229e23aafe
+2433	2708	6425635759893481	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/rtx_lib.pbi	9700f066a1bc9832
+2510	2744	6425635760343500	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas_part0.pbi	e955156b1744ecfb
+1809	2753	6425635760000000	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas.xcl	9b2a942aff4ec937
+2711	2820	6425635761103587	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas_part1.pbi	aa4eb9b032216957
+2763	2873	6425635761633593	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas.pbi	c3501a6ba7e60e4c
+2877	2914	6425635762063615	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas_part2.pbi	5d565b7d48da0aa9
+2917	3004	6425635762963698	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas.pbd	24de786df60c11f3
+3007	5591	6425635788215789	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas.pbw	a85fb5c207c0fc7b
+2	115	6425638193768455	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/rtx_lib.pbi	9700f066a1bc9832
+118	179	6425638194393432	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas_part1.pbi	aa4eb9b032216957
+183	260	6425638195252877	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas.pbd	24de786df60c11f3
+264	1287	6425638203846622	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas.pbw	a85fb5c207c0fc7b
+2	73	6425638661783483	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas.pbi	c3501a6ba7e60e4c
+76	97	6425638661939864	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas_part2.pbi	5d565b7d48da0aa9
+101	177	6425638662723391	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas.pbd	24de786df60c11f3
+181	1058	6425638671002199	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/Debug/BrowseInfo/tarefas.pbw	a85fb5c207c0fc7b

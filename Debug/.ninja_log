@@ -1,0 +1,13 @@
+# ninja log v5
+11	662	6425637100108038	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/ewarm/Obj/startup_TM4C1294.o	19a32a85ce3acd10
+20	1062	6425637109967666	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/ewarm/Obj/RTX_Config.o	fc196268a489f12
+364	1413	6425637110280153	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/ewarm/Obj/rtx_lib.o	67af38f23153889
+1	1424	6425637110280153	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/ewarm/Obj/driverleds.o	542c804469a2eb
+668	1490	6425637114186314	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/ewarm/Obj/tarefas.o	1d10e78e97cc4671
+1074	1551	6425637114811312	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/ewarm/Obj/system_TM4C1294_TW.o	1fd8872d10e34cac
+1564	2793	6425637127154769	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/ewarm/Exe/tarefas.out	1b717e1ad8b1c873
+2804	2976	6425637129188280	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/ewarm/Exe/tarefas.bin	907c8a8bf71ce8de
+1	114	6425638678189308	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/ewarm/Obj/tarefas.o	1d10e78e97cc4671
+3	415	6425638722278232	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/ewarm/Obj/rtx_lib.o	67af38f23153889
+424	534	6425638723528187	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/ewarm/Exe/tarefas.out	1b717e1ad8b1c873
+544	556	6425638723840675	C:/VHDL/EK-TM4C1294_RTOS_IAR8-master/Projects/tarefas/ewarm/Exe/tarefas.bin	907c8a8bf71ce8de
